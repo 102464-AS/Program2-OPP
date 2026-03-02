@@ -7,9 +7,8 @@ function convert($getal, $type = "BIN") {
     return $getal;
 }
 
-$number = $_POST['number'];
-
-$result = convert((int)$number);
+$number = isset($_POST['number']) ? $_POST['number'] : ""; 
+$result = ($number !== "") ? convert((int)$number) : "";
 ?>
 
 <!DOCTYPE html>

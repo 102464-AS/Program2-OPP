@@ -12,5 +12,5 @@ function magStemmen($age) {
     }
 }
 
-
+echo("we testen de functie met leeftijd 19:<br>");
 echo var_export(magStemmen(19));
