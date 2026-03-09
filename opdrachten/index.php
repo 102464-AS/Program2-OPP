@@ -32,5 +32,6 @@
     <a href="./opdracht 3/index.php">Opdracht 3</a>
     <a href="./opdracht 4/index.php">Opdracht 4</a>
     <a href="./opdracht 5/index.php">Opdracht 5</a>
+    <a href="./opdracht 6/index.php">Opdracht 6</a>
 </body>
 </html>
